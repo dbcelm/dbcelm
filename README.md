@@ -33,15 +33,20 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/google-cloud-platform.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/digital-ocean.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/google-cloud-platform.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/apache.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/nginx.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/terraform.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/brotli.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/certbot.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
 
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
