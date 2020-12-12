@@ -33,7 +33,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/google-cloud-platform.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/digital-ocean.svg"></code>
