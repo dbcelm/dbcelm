@@ -35,7 +35,6 @@
 
 <code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/google-cloud-platform.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/digital-ocean.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
