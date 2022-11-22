@@ -34,15 +34,20 @@
 **Languages and Tools:**  
 
 <code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/azure.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/digital-ocean.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/argo.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/apache.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/nginx.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/terraform.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/brotli.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bitbucket.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/github-actions.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/new-relic.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/datadog.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/elasticsearch.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/certbot.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
