@@ -47,6 +47,7 @@
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/github-actions.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/teamcity.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/new-relic.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/datadog.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/elasticsearch.svg"></code>
