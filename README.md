@@ -35,13 +35,14 @@
 
 <code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/helm.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/argo.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/prisma.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/apache.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/nginx.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/terraform.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/brotli.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bitbucket.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/github-actions.svg"></code>
@@ -51,6 +52,7 @@
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/certbot.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
+<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio-code.svg"></code>
 
 <a href="https://github.com/dbcelm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true" />
