@@ -63,14 +63,17 @@
 <a href="https://github.com/dbcelm">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats"/>
 </a>
+
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
-  <img align="center" src="https://i.ytimg.com/vi/7wRqtBMS6E0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7CZKim0QeY5PXgMv33HTRtJXTtg" style="width: 200px; height: 150px;" />
+  <img align="center" src="https://i.ytimg.com/vi/7wRqtBMS6E0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7CZKim0QeY5PXgMv33HTRtJXTtg" style="width: 350px; height: 200px;" />
 </a>
+
+<a href="https://github.com/aws-samples/karpenter-blueprints">
+  <img align="center" src="https://karpenter.sh/karpenter-overview.png" style="width: 350px; height: 200px;" />
+</a>
+
 <a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
   <img align="center" src="https://github.com/awslabs/data-on-eks/blob/main/website/static/img/doeks-logo-green.png" style="width: 200px; height: 150px;" />
-</a>
-<a href="https://github.com/aws-samples/karpenter-blueprints">
-  <img align="center" src="https://karpenter.sh/karpenter-overview.png" style="width: 200px; height: 150px;" />
 </a>
 
 
