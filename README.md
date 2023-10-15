@@ -34,28 +34,28 @@
 **Languages and Tools:**  
 
 <code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/kubernetes.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/helm.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/argo.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/prisma.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/docker-icon.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bash-icon.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/apache.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/nginx.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/terraform.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/bitbucket.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/github-icon.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kubernetes.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/helm.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/argo.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prisma.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/docker-icon.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bash-icon.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apache.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nginx.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/terraform.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bitbucket.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-icon.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/github-actions.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/teamcity.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/new-relic.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/datadog.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/elasticsearch.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/prometheus.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/certbot.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio-code.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/github-actions.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/teamcity.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/new-relic.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/datadog.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/elasticsearch.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prometheus.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/certbot.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/python.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg"></code>
 
 <a href="https://github.com/dbcelm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true" />
