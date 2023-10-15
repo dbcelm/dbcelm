@@ -37,7 +37,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kubernetes.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/helm.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/argo.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prisma.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sysdig.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/docker-icon.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/bash-icon.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/apache.svg"></code>
