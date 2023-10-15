@@ -68,7 +68,7 @@
 
 </a>
 <a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github.com/awslabs/data-on-eks/blob/main/website/static/img/doeks-logo-green.png" />
 
 </a>
 <a href="https://github.com/aws-samples/karpenter-blueprints">
