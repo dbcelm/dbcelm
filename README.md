@@ -65,11 +65,11 @@
 </a>
 
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
-  <img align="center" src="https://i.ytimg.com/vi/7wRqtBMS6E0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7CZKim0QeY5PXgMv33HTRtJXTtg" style="width: 350px; height: 200px;" />
+  <img align="center" src="https://i.ytimg.com/vi/7wRqtBMS6E0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7CZKim0QeY5PXgMv33HTRtJXTtg" style="width: 500px; height: 300px;" />
 </a>
 
 <a href="https://github.com/aws-samples/karpenter-blueprints">
-  <img align="center" src="https://karpenter.sh/karpenter-overview.png" style="width: 350px; height: 200px;" />
+  <img align="center" src="https://karpenter.sh/karpenter-overview.png" style="width: 500px; height: 300px;" />
 </a>
 
 <a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
