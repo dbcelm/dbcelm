@@ -58,10 +58,10 @@
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg"></code>
 
 <a href="https://github.com/dbcelm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true style="width: 500px; height: 300px;" />
 </a>
 <a href="https://github.com/dbcelm">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats style="width: 500px; height: 300px;"/>
 </a>
 
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
@@ -73,7 +73,7 @@
 </a>
 
 <a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
-  <img align="center" src="https://github.com/awslabs/data-on-eks/blob/main/website/static/img/doeks-logo-green.png" style="width: 200px; height: 150px;" />
+  <img align="center" src="https://github.com/awslabs/data-on-eks/blob/main/website/static/img/doeks-logo-green.png" style="width: 600px; height: 200px;" />
 </a>
 
 
