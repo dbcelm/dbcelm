@@ -67,12 +67,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
 </a>
-
 <a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 
 </a>
-
 <a href="https://github.com/aws-samples/karpenter-blueprints">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 
