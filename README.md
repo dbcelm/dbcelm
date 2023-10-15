@@ -63,13 +63,21 @@
 <a href="https://github.com/dbcelm">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
+<a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+
+<a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+
 </a>
+
+<a href="https://github.com/aws-samples/karpenter-blueprints">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+
+</a>
+
 
 <div align="center">
 
