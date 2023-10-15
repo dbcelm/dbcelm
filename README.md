@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true" />
 </a>
 <a href="https://github.com/dbcelm">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats" style="width: 500px; height: 300px;"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats" style="width: 500px; height: 200px;"/>
 </a>
 
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
