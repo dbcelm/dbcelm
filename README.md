@@ -58,10 +58,10 @@
 <code><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/visual-studio-code.svg"></code>
 
 <a href="https://github.com/dbcelm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true" style="width: 500px; height: 200px; />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dbcelm&show_icons=true" style="height: 200px;" />
 </a>
 <a href="https://github.com/dbcelm">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats" style="width: 500px; height: 200px;"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats" style="height: 200px;"/>
 </a>
 
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
