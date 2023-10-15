@@ -72,7 +72,7 @@
 
 </a>
 <a href="https://github.com/aws-samples/karpenter-blueprints">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light](https://karpenter.sh/karpenter-overview.png)" />
 
 </a>
 
