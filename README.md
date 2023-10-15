@@ -64,7 +64,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbcelm&layout=compact" alt="Ayush's github stats"/>
 </a>
 <a href="https://github.com/aws-ia/terraform-aws-eks-blueprints">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://i.ytimg.com/vi/7wRqtBMS6E0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7CZKim0QeY5PXgMv33HTRtJXTtg" />
 
 </a>
 <a href="https://github.com/awslabs/data-on-eks#data-on-amazon-eks-doeks">
