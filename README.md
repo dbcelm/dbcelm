@@ -20,8 +20,8 @@
 
 
 
-- 🔭 I’m currently working on [Kubernetes](https://kubernetes.io/).
-- 🌱 I’m currently learning more about [Terraform](https://www.terraform.io/)
+- 🔭 I’m currently working on [Kubernetes](https://kubernetes.io/) | [Terraform](https://www.terraform.io/) | [Helm](https://helm.sh).
+- 🌱 I’m currently learning more about [Node.JS](https://nodejs.org/en))
 - 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/dbcelm/)
 - 🤔 I’m looking for help with [Cilium](https://cilium.io)
 - 💬 Ask me about Containers or any cloud computing related stuff.
